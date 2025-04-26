@@ -17,7 +17,7 @@ export default function Footer() {
               whileHover={{ x: 5 }}
             >
               <i className="fas fa-anchor text-accent mr-2"></i>
-              <span className="font-heading font-bold text-lg">Product Voyage</span>
+              <span className="font-heading font-bold text-lg">Prerak Madan Voyage</span>
             </motion.div>
             <p className="mt-2 text-sm text-white/70">From Navigating Oceans to Navigating User Journeys</p>
           </div>

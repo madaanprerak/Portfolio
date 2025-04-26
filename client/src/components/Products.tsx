@@ -16,7 +16,7 @@ export default function Products() {
             viewport={{ once: true }}
             transition={{ duration: 0.7 }}
           >
-            Products That Set Sail 🚀
+            Products That Sail 🚀
           </motion.h2>
           <motion.p 
             className="text-lg text-primary/80"

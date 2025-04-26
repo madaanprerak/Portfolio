@@ -33,7 +33,7 @@ export default function Navbar() {
       <div className="container mx-auto px-4 py-3 flex justify-between items-center">
         <Link href="/" className="flex items-center">
           <i className="fas fa-anchor text-accent mr-2"></i>
-          <span className="font-heading font-bold">Product Voyage</span>
+          <span className="font-heading font-bold">Prerak Madan Voyage</span>
         </Link>
         
         <div className="hidden md:flex space-x-6">
