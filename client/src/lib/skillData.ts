@@ -83,7 +83,7 @@ export const skillBadges = [
     animate: true
   },
   {
-    name: 'Publishing Tech Expert',
+    name: 'Customer Experience Expert',
     icon: 'fa-book',
     animate: false
   }

@@ -38,7 +38,7 @@ export default function Footer() {
         </div>
         
         <div className="mt-8 pt-8 border-t border-white/10 text-center text-sm text-white/60">
-          <p>© {new Date().getFullYear()} Product Portfolio. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Prerak Madan Portfolio. All rights reserved.</p>
         </div>
       </div>
     </footer>

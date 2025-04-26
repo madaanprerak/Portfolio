@@ -60,7 +60,7 @@ export default function Contact() {
                 <div className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center mr-4">
                   <i className="fab fa-linkedin-in text-accent"></i>
                 </div>
-                <span>linkedin.com/in/madanprerak</span>
+                <span>www.linkedin.com/in/madanprerak</span>
               </motion.a>
               <motion.div 
                 className="flex items-center"
