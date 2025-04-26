@@ -1,22 +1,22 @@
 export const journeyData = [
   {
-    id: 'pune',
-    title: 'Education — Samundra Institute of Maritime Studies',
-    location: 'Pune',
+    id: 'imu',
+    title: 'Education — Indian Maritime University',
+    location: 'Mumbai',
     subtitle: 'Education',
     icon: 'fa-graduation-cap',
     tooltip: 'Where my journey began — Marine Engineering foundations.',
     current: false,
-    quote: 'My journey began with a rigorous marine engineering education at Samundra Institute of Maritime Studies, where I built a strong foundation in technical problem-solving, operations management, and leadership.',
+    quote: 'My journey began with a rigorous marine engineering education at Indian Maritime University, where I built a strong foundation in technical problem-solving, operations management, and leadership.',
     tags: ['Education', 'Structured Thinking', 'Foundation Building', 'Leadership Skills'],
-    shortDescription: 'My journey began with a rigorous marine engineering education, building a strong foundation in technical problem-solving.',
+    shortDescription: 'B.Tech in Marine Engineering (GPA: 7.9/10), building a strong foundation in technical problem-solving and leadership.',
     painPoints: [
       'Built structured analytical thinking.',
       'Developed operational and process-driven mindset.',
       'Gained early exposure to teamwork and leadership at sea.'
     ],
     achievements: [
-      'Graduated among the top cohort from Samundra Institute of Maritime Studies.',
+      'Felicitated by Director with Best Cadet Captain Award.',
       'Completed advanced maritime leadership and emergency operations training.',
       'Led final-year project on engine performance optimization at sea.'
     ],
@@ -32,26 +32,26 @@ export const journeyData = [
   },
   {
     id: 'singapore',
-    title: 'Merchant Navy — Executive Ship Management, Singapore',
+    title: 'Junior Analyst — Executive Ship Management, Singapore',
     location: 'Singapore',
-    subtitle: 'Merchant Navy',
+    subtitle: 'Junior Analyst',
     icon: 'fa-ship',
-    tooltip: 'Learned the value of structured thinking and resilience at sea.',
+    tooltip: 'Learned the value of structured thinking and resilience in a global shipping company.',
     current: false,
-    quote: 'Working as a Marine Engineer, I handled critical ship operations, leading small crews, and ensuring smooth logistics at sea. It was here I realized my passion was solving deeper operational problems beyond the maritime sector.',
-    tags: ['Operations', 'Real-world Leadership', 'Self-Discovery', 'Career Pivot'],
-    shortDescription: 'Working as a Marine Engineer, handling ship operations and leading crews. It was here I discovered my passion for solving broader problems.',
+    quote: 'Working as a Junior Analyst at Executive Ship Management, I analyzed operations and optimized processes, working with cross-functional teams to improve efficiency in the shipping industry.',
+    tags: ['Operations', 'Analysis', 'Process Optimization', 'Career Pivot'],
+    shortDescription: 'Worked with cross-functional teams to optimize processes and reduce lead time by 11% at a global shipping company.',
     painPoints: [
-      'Managed large-scale mechanical operations in real-world harsh environments.',
-      'Learned crisis management and rapid decision-making in high-pressure scenarios.',
-      'Realized a strong inclination towards structured problem solving and process improvement.'
+      'Complex processes needing optimization in a global shipping operation.',
+      'Need for data-driven approaches to spare parts consumption.',
+      'Cross-functional coordination challenges in an international environment.'
     ],
     achievements: [
-      'Led operational safety checks improving maintenance efficiency by 15%.',
-      'Coordinated cross-functional teams on critical offshore docking projects.',
-      'Initiated improvement of crew rotation processes, enhancing resource management.'
+      'Worked with cross-functional teams to eliminate two processes, reducing lead time by 11%.',
+      'Achieved cost optimization through Spare Part Consumption Analysis by 5%.',
+      'Contributed to process improvements in shipping operations.'
     ],
-    conclusion: 'While excelling in engineering operations, I realized my true calling was solving larger systemic problems. I decided to pivot my career path toward technology and product management.',
+    conclusion: 'While excelling in operational analysis, I realized my true calling was solving larger systemic problems. I decided to pivot my career path toward technology and product management.',
     decoration: {
       icon: 'fa-palm-tree',
       position: { x: 'left', y: '10', offset: '5' },
@@ -61,49 +61,16 @@ export const journeyData = [
     }
   },
   {
-    id: 'yc',
-    title: 'YCombinator Learnings',
-    location: 'YC',
-    subtitle: 'Self Discovery',
-    icon: 'fa-lightbulb',
-    tooltip: 'Startup wisdom sparked a new path forward.',
-    current: false,
-    quote: 'Browsing through YC content, I discovered a world of innovation and problem-solving that aligned with my passion. This self-directed learning sparked a clear vision of my path forward in the startup ecosystem.',
-    tags: ['Self Discovery', 'Startup Wisdom', 'Career Transition'],
-    shortDescription: 'Discovered startup wisdom that sparked a new path forward in my career journey.',
-    learnings: [
-      'Problem-focused approach to building products',
-      'Lean startup methodology and iterative development',
-      'The importance of talking directly to users',
-      'Value of building minimum viable products'
-    ],
-    inspirations: [
-      'Founder stories of career transitions',
-      'Product-led growth examples',
-      'Frameworks for understanding product-market fit',
-      'Technical founders turning ideas into successful businesses'
-    ],
-    conclusion: 'This self-discovery phase was pivotal in my journey. The treasure trove of startup wisdom provided a roadmap to transition from maritime engineering to the world of product development, giving me both the motivation and practical knowledge to begin my new path.',
-    decoration: {
-      icon: 'fa-treasure-chest',
-      position: { x: 'right', y: '12', offset: '5' },
-      size: '3xl',
-      animation: 'animate-float',
-      duration: 5,
-      animate: { y: [0, -10, 0] }
-    }
-  },
-  {
     id: 'fitdote',
-    title: 'Fitdote — Product Associate',
-    location: 'Fitdote',
-    subtitle: 'Business Development → Product',
+    title: 'Associate Product Manager — Define Edge India Private Limited',
+    location: 'New Delhi',
+    subtitle: 'Associate Product Manager',
     icon: 'fa-dumbbell',
-    tooltip: 'First tasted the excitement of user problems and product-market fit.',
+    tooltip: 'First product role connecting service seekers with service providers.',
     current: false,
-    quote: 'My first product role where I transitioned from business development into product management — helping to build a fitness service aggregator platform, solving problems for fitness enthusiasts and trainers across new locations.',
+    quote: 'As Associate Product Manager at Define Edge India Private Limited, I helped build a fitness service aggregator platform connecting service seekers with service providers — from brands to certified trainers to fitness centers.',
     tags: ['Fitness Tech', 'Aggregator Platform', 'Business Development', 'Product Discovery'],
-    shortDescription: 'My first product role where I helped build a fitness service aggregator platform, solving problems for fitness enthusiasts.',
+    shortDescription: 'My first product role where I helped build a fitness service aggregator platform connecting service seekers with service providers.',
     painPoints: [
       'Travelers struggling to find quality fitness centers in new cities.',
       'Beginners lacking structured motivation and reliable fitness guidance.',
@@ -111,10 +78,10 @@ export const journeyData = [
       'Fitness service providers needing a centralized platform to market and manage services.'
     ],
     achievements: [
-      'Launched 3 new verticals expanding services: Personal Training, Yoga, and Rehabilitation Fitness.',
-      'Achieved 120% boost in platform conversions through improved user experience and interface redesigns.',
-      'Built and implemented structured customer retention programs, increasing monthly active users by 18%.',
-      'Conducted market research across multiple cities to guide user journey mapping and product roadmap decisions.'
+      'Conceptualized & launched multiple in-house lead-gen mechanisms to increase conversion rates by ~120%.',
+      'Designed & optimized demand-supply matching algorithm, increasing conversion from <10% to 55% through sequential AB testing.',
+      'Spearheaded the 0-1 launch of 3 new online e-commerce verticals: packages, personal training, and weekend activities.',
+      'Launched system via web portal, acquiring 3000+ paid customers in first 3 months.'
     ],
     conclusion: 'This was where I truly discovered product management — facing real-world customer problems, balancing business needs with user empathy, and working closely with engineering and design teams to ship and iterate fast.',
     decoration: {
@@ -127,27 +94,30 @@ export const journeyData = [
   },
   {
     id: 'dhwani',
-    title: 'Dhwani Rural Systems — Product Manager',
-    location: 'Dhwani',
-    subtitle: 'Analyst → Product Manager',
+    title: 'Product Manager — Dhwani Rural Information System Pvt Limited',
+    location: 'Gurugram',
+    subtitle: 'Product Manager',
     icon: 'fa-home',
-    tooltip: 'Built tech that connected the remotest parts of the country to impact data.',
+    tooltip: 'Led impactful products and consulting projects for nonprofits and government agencies.',
     current: false,
-    quote: 'My first full-fledged product manager role where I led platforms impacting education, health, and CSR sectors, empowering nonprofits through data-driven solutions.',
-    tags: ['Nonprofit Tech', 'Data Platforms', 'CSR Solutions', 'Product Scaling'],
-    shortDescription: 'Led platforms impacting education, health, and CSR sectors, empowering nonprofits through data-driven solutions.',
+    quote: 'As Product Manager at Dhwani Rural Information System, I led platforms impacting education, health, and CSR sectors, while also working on government projects, custom projects, and consulting assignments that helped customers achieve more than expected outcomes.',
+    tags: ['Nonprofit Tech', 'Data Platforms', 'CSR Solutions', 'Product Scaling', 'Consulting'],
+    shortDescription: 'Built 3 products that augmented impact for over 1 million end users, while leading a team of 35+ across multiple disciplines.',
     painPoints: [
       'Slow, manual, offline data collection for impact measurement.',
       'Lack of structured reporting frameworks for nonprofits and CSR partners.',
-      'Difficulty training remote field workers in low-tech environments.'
+      'Difficulty training remote field workers in low-tech environments.',
+      'Complex stakeholder needs requiring both product and consulting solutions.'
     ],
     achievements: [
-      'Scaled MForm adoption to 50+ NGOs, handling 500K+ survey submissions.',
-      'Launched MGrant, now used by top CSR arms like Godrej, HDFC, Mahindra Group.',
-      'Led configuration of LMS for remote training, improving field team productivity by 30%.',
-      'Conceptualized and delivered chatbots for emergency COVID relief communication.'
+      'Built 3 products that augmented impact for over 1 million end users.',
+      'Built and led a team of 35+ APM, developers, UI/UX designers, QAs and analysts.',
+      'Performed 200+ hours of stakeholder interviews to design dynamic, no-code solutions.',
+      'Established partnerships with 5 of 20 top CSRs, resulting in 2 Cr additional annual revenue.',
+      'Achieved cost savings of 1 Cr through efficient dynamic feature development and module redesign.',
+      'Received Gem Award for two consecutive years (2022/23).'
     ],
-    conclusion: 'This role deepened my product leadership skills — from ideating with users in rural areas to building scalable platforms that adapt to multiple nonprofit sectors.',
+    conclusion: 'This role deepened my product leadership skills while adding consulting expertise — from ideating with users in rural areas to building scalable platforms that adapt to multiple nonprofit sectors, all while exceeding customer expectations.',
     decoration: {
       icon: 'fa-seedling',
       position: { x: 'left', y: '12', offset: '0' },
@@ -158,25 +128,25 @@ export const journeyData = [
   },
   {
     id: 'dubpro',
-    title: 'Dubpro.ai — Product Manager',
-    location: 'Dubpro.ai',
+    title: 'Product Manager — Dubpro.ai',
+    location: 'Noida',
     subtitle: 'Product Manager',
     icon: 'fa-video',
-    tooltip: 'Leveraged AI and human synergy to scale video localization.',
+    tooltip: 'Built an AI-powered video dubbing platform with human-in-the-loop workflows.',
     current: false,
-    quote: 'At Dubpro.ai, I blended technology and creativity to build an AI-powered, human-in-loop dubbing platform catering to creators across YouTube, ed-tech, and social media.',
+    quote: 'At Dubpro.ai, I built an AI-powered video dubbing platform with human-in-the-loop workflows for seamless audio localization, targeting YouTube creators and content producers.',
     tags: ['AI', 'Human-in-loop systems', 'SaaS Subscription Models', 'Content Localization'],
-    shortDescription: 'Built an AI-powered, human-in-loop dubbing platform catering to creators across YouTube, ed-tech, and social media.',
+    shortDescription: 'Led the development of an AI-powered video dubbing platform with human verification workflows for audio localization.',
     painPoints: [
       'Lack of affordable, high-quality multilingual dubbing solutions for creators.',
       'Need for scalable yet personalized content localization services.',
       'Helping creators expand reach without sacrificing voice quality.'
     ],
     achievements: [
-      'Achieved product-market fit with 5x growth in paying subscribers in 6 months.',
-      'Designed new user journeys improving onboarding and activation by 20%.',
-      'Built flexible workflows balancing automation and human verification.',
-      'Defined segmented acquisition strategies for YouTubers, educators, and brands.'
+      'Led redesign of website from conceptualization to implementation, enhancing user experience and engagement.',
+      'Identified drop-off in conversions; introduced per-minute subscription model resulting in 5x increase in conversion rates.',
+      'Strategically guided team to target YouTube creators, boosting subscriber rate 3x.',
+      'Introduced subscription model enabling Monthly Recurring Revenue (MRR) forecasting.'
     ],
     conclusion: 'This experience sharpened my skills in AI product management, subscription growth, and user lifecycle optimization — combining creativity with engineering excellence.',
     decoration: {
@@ -190,11 +160,11 @@ export const journeyData = [
   },
   {
     id: 'tnq',
-    title: 'TNQ Technologies — Product Manager',
-    location: 'TNQ Tech',
+    title: 'Product Manager — TNQ Tech',
+    location: 'Chennai',
     subtitle: 'Current Role',
     icon: 'fa-lighthouse',
-    tooltip: 'Turning complex processes into simple, beautiful product experiences.',
+    tooltip: 'Turning complex publishing processes into simple, beautiful product experiences.',
     current: true,
     quote: 'At TNQ Tech, I am leading the development of SaaP — Service as a Platform, a strategic product initiative that transforms TNQ\'s service offerings into a centralized, user-driven platform. PubC is positioned to become the face of TNQ, redefining how our publishing services are delivered and experienced.',
     tags: ['Enterprise SaaS', 'Publishing Tech', 'Platform Transformation', 'Product Strategy'],
@@ -205,10 +175,11 @@ export const journeyData = [
       'Need to transition TNQ\'s operations towards a tech-led, scalable model.'
     ],
     achievements: [
-      "Conceptualized and launched PubC MVP, moving TNQ into a tech-first service model.",
-      "Reduced project turnaround time by 30% through centralized service operations.",
-      "Introduced real-time project status tracking and customer dashboards.",
-      "Strengthened TNQ's brand identity through enhanced customer experience."
+      "Onboarded and led initial development of PubC driving progress toward 100% tracking transparency for publishers.",
+      "Delivered an MVP within 3 months, enabling a 30% reduction in manual intervention.",
+      "Streamlined system integration with 3+ teams, cutting data update time by 20%.",
+      "Integrated cross-system reporting, saving 20+ hours/week of manual effort for internal teams.",
+      "Deployed Microsoft clarity for analytics boosting feature adoption by 60%."
     ],
     conclusion: 'This journey is about building not just a product, but a unified service experience — empowering customers to engage with TNQ transparently, efficiently, and confidently.',
     decoration: {

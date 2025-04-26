@@ -102,7 +102,7 @@ export default function Contact() {
                   <div className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center mr-4">
                     <i className="fas fa-envelope text-accent"></i>
                   </div>
-                  <span>email@example.com</span>
+                  <span>madanprerak@gmail.com</span>
                 </motion.div>
                 <motion.div 
                   className="flex items-center"
@@ -112,7 +112,7 @@ export default function Contact() {
                   <div className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center mr-4">
                     <i className="fab fa-linkedin-in text-accent"></i>
                   </div>
-                  <span>linkedin.com/in/username</span>
+                  <span>linkedin.com/in/madanprerak</span>
                 </motion.div>
                 <motion.div 
                   className="flex items-center"
@@ -120,9 +120,9 @@ export default function Contact() {
                   transition={{ type: "spring", stiffness: 300 }}
                 >
                   <div className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center mr-4">
-                    <i className="fab fa-twitter text-accent"></i>
+                    <i className="fas fa-phone text-accent"></i>
                   </div>
-                  <span>@username</span>
+                  <span>+91 965-018-8896</span>
                 </motion.div>
               </div>
             </div>

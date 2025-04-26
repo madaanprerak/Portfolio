@@ -3,10 +3,8 @@ import { Link } from 'wouter';
 
 export default function Footer() {
   const socialLinks = [
-    { icon: 'fab fa-linkedin-in', href: '#' },
-    { icon: 'fab fa-twitter', href: '#' },
-    { icon: 'fab fa-medium', href: '#' },
-    { icon: 'fab fa-github', href: '#' }
+    { icon: 'fab fa-linkedin-in', href: 'https://www.linkedin.com/in/madanprerak' },
+    { icon: 'fab fa-medium', href: '#' }
   ];
 
   return (
