@@ -1,0 +1,171 @@
+
+📍 1. Education — Samundra Institute of Maritime Studies
+Tags: Education, Structured Thinking, Foundation Building, Leadership Skills
+
+"My journey began with a rigorous marine engineering education at Samundra Institute of Maritime Studies, where I built a strong foundation in technical problem-solving, operations management, and leadership."
+
+Products Built
+(None — education phase)
+
+Pain Points Solved
+Built structured analytical thinking.
+
+Developed operational and process-driven mindset.
+
+Gained early exposure to teamwork and leadership at sea.
+
+Key Achievements
+Graduated among the top cohort from Samundra Institute of Maritime Studies.
+
+Completed advanced maritime leadership and emergency operations training.
+
+Led final-year project on engine performance optimization at sea.
+
+Learning Experience
+"This phase instilled in me discipline, technical precision, and resilience, which became fundamental traits I carried into my future product career."
+
+📍 2. Merchant Navy — Executive Ship Management, Singapore
+Tags: Operations, Real-world Leadership, Self-Discovery, Career Pivot
+
+"Working as a Marine Engineer, I handled critical ship operations, leading small crews, and ensuring smooth logistics at sea. It was here I realized my passion was solving deeper operational problems beyond the maritime sector."
+
+Products Built
+(None — operations phase)
+
+Pain Points Solved
+Managed large-scale mechanical operations in real-world harsh environments.
+
+Learned crisis management and rapid decision-making in high-pressure scenarios.
+
+Realized a strong inclination towards structured problem solving and process improvement.
+
+Key Achievements
+Led operational safety checks improving maintenance efficiency by 15%.
+
+Coordinated cross-functional teams on critical offshore docking projects.
+
+Initiated improvement of crew rotation processes, enhancing resource management.
+
+Learning Experience
+"While excelling in engineering operations, I realized my true calling was solving larger systemic problems. I decided to pivot my career path toward technology and product management."
+
+📍 3. Fitdote — Product Associate
+Tags: Fitness Tech, Aggregator Platform, Business Development, Product Discovery
+
+"My first product role where I transitioned from business development into product management — helping to build a fitness service aggregator platform, solving problems for fitness enthusiasts and trainers across new locations."
+
+Products Built
+Fitness Service Aggregator Platform
+A unified platform connecting fitness service seekers with certified trainers and fitness centers, personalized to user preferences.
+
+Pain Points Solved
+Travelers struggling to find quality fitness centers in new cities.
+
+Beginners lacking structured motivation and reliable fitness guidance.
+
+Certified trainers facing challenges in reaching wider audiences.
+
+Fitness service providers needing a centralized platform to market and manage services.
+
+Key Achievements
+Launched 3 new verticals expanding services: Personal Training, Yoga, and Rehabilitation Fitness.
+
+Achieved 120% boost in platform conversions through improved user experience and interface redesigns.
+
+Built and implemented structured customer retention programs, increasing monthly active users by 18%.
+
+Conducted market research across multiple cities to guide user journey mapping and product roadmap decisions.
+
+Learning Experience
+"This was where I truly discovered product management — facing real-world customer problems, balancing business needs with user empathy, and working closely with engineering and design teams to ship and iterate fast."
+
+📍 4. Dhwani Rural Systems — Product Manager
+Tags: Nonprofit Tech, Data Platforms, CSR Solutions, Product Scaling
+
+"My first full-fledged product manager role where I led platforms impacting education, health, and CSR sectors, empowering nonprofits through data-driven solutions."
+
+Products Built
+MForm: Mobile-first data collection platform for remote and offline use.
+
+MGrant: CSR reporting and nonprofit management platform.
+
+LMS for Nonprofits: Learning platform for field workers in rural areas.
+
+Pain Points Solved
+Slow, manual, offline data collection for impact measurement.
+
+Lack of structured reporting frameworks for nonprofits and CSR partners.
+
+Difficulty training remote field workers in low-tech environments.
+
+Key Achievements
+Scaled MForm adoption to 50+ NGOs, handling 500K+ survey submissions.
+
+Launched MGrant, now used by top CSR arms like Godrej, HDFC, Mahindra Group.
+
+Led configuration of LMS for remote training, improving field team productivity by 30%.
+
+Conceptualized and delivered chatbots for emergency COVID relief communication.
+
+Learning Experience
+"This role deepened my product leadership skills — from ideating with users in rural areas to building scalable platforms that adapt to multiple nonprofit sectors."
+
+📍 5. Dubpro.ai — Product Manager
+Tags: AI, Human-in-loop systems, SaaS Subscription Models, Content Localization
+
+"At Dubpro.ai, I blended technology and creativity to build an AI-powered, human-in-loop dubbing platform catering to creators across YouTube, ed-tech, and social media."
+
+Products Built
+Dubpro.ai Platform: AI-based video dubbing service with human quality control.
+
+Subscription Service: SaaS subscription model for video creators.
+
+Pain Points Solved
+Lack of affordable, high-quality multilingual dubbing solutions for creators.
+
+Need for scalable yet personalized content localization services.
+
+Helping creators expand reach without sacrificing voice quality.
+
+Key Achievements
+Achieved product-market fit with 5x growth in paying subscribers in 6 months.
+
+Designed new user journeys improving onboarding and activation by 20%.
+
+Built flexible workflows balancing automation and human verification.
+
+Defined segmented acquisition strategies for YouTubers, educators, and brands.
+
+Learning Experience
+"This experience sharpened my skills in AI product management, subscription growth, and user lifecycle optimization — combining creativity with engineering excellence."
+
+📍 6. TNQ Technologies — Product Manager
+Tags: Enterprise SaaS, Publishing Tech, Platform Transformation, Product Strategy
+
+"At TNQ Tech, I am leading the development of SaaP — Service as a Platform, a strategic product initiative that transforms TNQ’s service offerings into a centralized, user-driven platform.
+PubC is positioned to become the face of TNQ, redefining how our publishing services are delivered and experienced."
+
+Products Built
+PubC (SaaP Model):
+A publishing services platform integrating booking, project tracking, communication, and reporting under a single interface.
+
+Pain Points Solved
+Fragmented client communication and service delivery experience.
+
+Lack of self-service options and real-time project visibility for customers.
+
+Need to transition TNQ’s operations towards a tech-led, scalable model.
+
+Key Achievements
+Conceptualized and launched PubC MVP, moving TNQ into a tech-first service model.
+
+Reduced project turnaround time by 30% through centralized service operations.
+
+Introduced real-time project status tracking and customer dashboards.
+
+Strengthened TNQ’s brand identity through enhanced customer experience.
+
+Learning Experience
+"This journey is about building not just a product, but a unified service experience — empowering customers to engage with TNQ transparently, efficiently, and confidently.
+
+and Popup should be responsive

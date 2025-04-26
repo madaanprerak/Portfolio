@@ -1,0 +1,181 @@
+Create a fully interactive Product Manager Portfolio Website that showcases a journey story from a Merchant Navy Engineer to a Product Leader, using a Journey Map concept styled like an adventure across the ocean.
+
+Core Concept:
+
+A ship sailing across oceans, stopping at career checkpoints (companies/experiences).
+
+Each stop is clickable to reveal products built, skills unlocked, problems solved, and mini case studies.
+
+The experience should feel like a playable journey, not just reading a resume.
+
+Journey Flow:
+
+Pune (Education) – Marine Engineering Graduation.
+
+Tooltip: "Where my journey began — Marine Engineering foundations."
+
+Micro-interaction: Graduation cap floating on the docks.
+
+Singapore (Merchant Navy) – Executive Ship Management.
+
+Realization: Not meant for sea life.
+
+Tooltip: "Learned the value of structured thinking and resilience at sea."
+
+Micro-interaction: Ship rocks with small waves.
+
+YCombinator Learnings (Self Discovery)
+
+Browsed YC content, inspired to join/startup ecosystem.
+
+Tooltip: "Startup wisdom sparked a new path forward."
+
+Micro-interaction: Treasure chest opens spilling ideas.
+
+Checkpoint - Fitdote (Business Development → Product Associate)
+
+Product: Fitness Service Aggregator Platform.
+
+Pain Points Solved:
+
+Travelers finding fitness centers.
+
+Motivating beginners.
+
+Certified trainer visibility.
+
+Helping service providers market better.
+
+Achievements: 3 new business verticals, 120% boost in conversions.
+
+Tooltip: "First tasted the excitement of user problems and product-market fit."
+
+Micro-interaction: Gym icons pop up around the island.
+
+COVID Disruption (Storm Scene)
+
+Fitdote shut down.
+
+Tooltip: "Faced storms, stayed resilient, set a new course."
+
+Micro-interaction: Storm clouds roll in, ship slows.
+
+Checkpoint - Dhwani Rural Information Systems (Analyst → Product Manager)
+
+Products Built:
+
+MForm: Mobile real-time data collection platform.
+
+MGrant: No-code CSR reporting and nonprofit management platform.
+
+LMS for Nonprofits: Mobile learning solution for remote workers.
+
+DAAS: Dashboards with consulting around impact metrics.
+
+Pain Points Solved:
+
+Slow data processes, CSR reporting gaps, training challenges.
+
+Big Clients: HUL, Shiv Nadar, Godrej, Mahindra, Amazon India, HDFC Bank.
+
+Tooltip: "Built tech that connected the remotest parts of the country to impact data."
+
+Micro-interaction: Village fields turning into tech-enabled communities.
+
+Checkpoint - Dubpro.ai (Product Manager)
+
+Product: AI-powered human-in-loop video dubbing platform.
+
+Pain Points Solved:
+
+Scalable and affordable localization for creators.
+
+Achievements: 5x increase in conversions, PMF achieved.
+
+Tooltip: "Leveraged AI and human synergy to scale video localization."
+
+Micro-interaction: Film reels floating across a creative beach.
+
+Checkpoint - TNQ Technologies (Product Manager)
+
+Product: PubC – Publishing CRM and Service Portal.
+
+Pain Points Solved:
+
+Disjointed publisher experience → streamlined through a centralized portal.
+
+Achievements: 40% faster client resolutions, MVP launch in 3 months.
+
+Tooltip: "Turning complex processes into simple, beautiful product experiences."
+
+Micro-interaction: City skyline rises on the horizon, with book icons.
+
+Final Destination - Lighthouse of Product Mastery
+
+Career Vision: Build user-centric, impactful, tech-driven products at a global scale.
+
+Tooltip: "A journey fueled by purpose — with much more ahead."
+
+Micro-interaction: Lighthouse beams shining as ship docks.
+
+Interactive Tabs/Sections:
+
+✅ Journey Map (Main Adventure Scroll)
+✅ Products Built Tab ("Products That Set Sail 🚀")
+
+Each product clickable:
+
+Mini product image
+
+Pain Point solved
+
+Solution Highlights
+
+Achievement Metrics ✅ Skills Unlocked Tab ("Skills I Collected Along the Way ⚓")
+
+Stakeholder Management, Storytelling, No-code Building, Data Analysis, PMF Discovery, Growth Hacking. ✅ Learning Journey
+
+Skill badges collected at each checkpoint like achievements.
+✅ Final Vision Section ("The Lighthouse Ahead 🗼")
+
+Hero Section:
+
+Top Tagline:
+Merchant Navy Engineer → Product Leader
+
+Main Hero Line:
+"From navigating oceans to navigating user journeys — I charted a new course as a Product Manager, building solutions that empower millions."
+
+Supporting Line:
+"Building products that matter. Learning, leading, and leaving an impact at every step."
+
+CTA Button:
+Explore My Journey 🚀
+
+Design Requirements:
+
+Light background (beige or soft blue oceanic tone).
+
+Journey drawn like a wavy dotted line across map (horizontal scrolling).
+
+Subtle ship bobbing animation tied to scroll speed.
+
+Glow on checkpoints when hovered.
+
+Animated elements: waves, clouds, treasure chests, city skylines.
+
+Ambient light ocean sounds for desktop users.
+
+Fully responsive on mobile.
+
+Bonus Ideas:
+
+Hidden clickable telescope: clicking reveals a PM tip or story.
+
+Skill badges shown as collectible items like a mini-game.
+
+Ship log timeline: key learning points popping up as the ship moves.
+
+Add badge names for each checkpoint now? 🎖️ (like "Startup Explorer", "Social Impact Builder", "AI Product Specialist" etc.)
+
+refer theimages attache for the idea attached and make all links workable and more intutive
