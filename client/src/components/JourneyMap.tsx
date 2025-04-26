@@ -71,8 +71,16 @@ export default function JourneyMap() {
                   <i className={`fas ${point.icon}`}></i>
                 </motion.div>
                 <div className="ml-6">
-                  <h3 className="text-xl font-heading font-bold mb-2">{point.title}</h3>
-                  <div className="text-sm text-primary/70 mb-3">{point.subtitle}</div>
+                  <h3 className="text-xl font-heading font-bold mb-2">{point.location}</h3>
+                  <div className="text-sm text-primary/70 mb-3">
+                    <span className="font-bold">{point.subtitle}</span>
+                    {point.title.includes('—') && (
+                      <>
+                        <br />
+                        {point.title.split('—')[1].trim()}
+                      </>
+                    )}
+                  </div>
                   <div className="bg-white rounded-lg p-4 shadow-md">
                     <p className="text-primary/80 mb-3">
                       {point.shortDescription}
@@ -137,7 +145,15 @@ export default function JourneyMap() {
                       </motion.div>
                       <div className="text-center mt-2 mb-4">
                         <h3 className="font-heading font-semibold text-lg">{checkpoint.location}</h3>
-                        <p className="text-xs text-primary/70">{checkpoint.subtitle}</p>
+                        <p className="text-xs text-primary/70">
+                          <span className="font-bold">{checkpoint.subtitle}</span>
+                          {checkpoint.title.includes('—') && (
+                            <>
+                              <br />
+                              {checkpoint.title.split('—')[1].trim()}
+                            </>
+                          )}
+                        </p>
                       </div>
                       <motion.div 
                         className="bg-white p-3 rounded-lg shadow-md w-full mt-auto"

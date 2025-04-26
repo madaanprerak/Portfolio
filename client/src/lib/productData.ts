@@ -237,11 +237,11 @@ export const productData = [
   },
   {
     id: 'fitdote',
-    name: 'Define Edge Platform',
+    name: 'Fitdote',
     company: 'Define Edge India Private Limited',
     category: 'Marketplace',
     description: 'Connecting service seekers with service providers — from brands to certified trainers to fitness centers.',
-    longDescription: 'The Define Edge platform connects service seekers with service providers — from brands to certified trainers to fitness centers. This fitness services aggregator platform provides comprehensive solutions to fitness enthusiasts while giving service providers digital tools to expand their reach.',
+    longDescription: 'Fitdote connects service seekers with service providers — from brands to certified trainers to fitness centers. This fitness services aggregator platform provides comprehensive solutions to fitness enthusiasts while giving service providers digital tools to expand their reach.',
     icon: 'fa-heartbeat',
     painPoint: 'Fragmented fitness service discovery and booking',
     achievement: '120% boost in platform conversions',
@@ -265,7 +265,7 @@ export const productData = [
       'Review and rating mechanism',
       'Personalized fitness program recommendations'
     ],
-    approach: 'The Define Edge platform was built with a deep understanding of both sides of the marketplace. We focused on creating smooth connections between service seekers and providers, addressing the unique challenges of fitness discovery and delivery.',
+    approach: 'Fitdote was built with a deep understanding of both sides of the marketplace. We focused on creating smooth connections between service seekers and providers, addressing the unique challenges of fitness discovery and delivery.',
     process: [
       {
         title: 'Discover',
@@ -280,6 +280,6 @@ export const productData = [
         description: 'Continuously added new service categories based on market feedback'
       }
     ],
-    learnings: 'Building the Define Edge platform taught me the importance of balancing both sides of a marketplace. By understanding the needs of both service seekers and providers, we created a platform that delivered value to everyone in the ecosystem.'
+    learnings: 'Building Fitdote taught me the importance of balancing both sides of a marketplace. By understanding the needs of both service seekers and providers, we created a platform that delivered value to everyone in the ecosystem.'
   }
 ];
