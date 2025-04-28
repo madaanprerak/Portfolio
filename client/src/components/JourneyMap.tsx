@@ -109,6 +109,7 @@ export default function JourneyMap() {
               <div className="absolute left-16 right-16 top-1/2 transform -translate-y-1/2 border-2 border-dashed border-primary/30 z-0"></div>
               
               {/* Journey Ship (animated with scroll) */}
+              
               <motion.div 
                 className="absolute top-1/2 transform -translate-y-1/2 z-20 w-16 h-16"
                 initial={{ left: "16%" }}
@@ -144,15 +145,21 @@ export default function JourneyMap() {
                         <i className={`fas ${checkpoint.icon}`}></i>
                       </motion.div>
                       <div className="text-center mt-2 mb-4">
-                        <h3 className="font-heading font-semibold text-lg">{checkpoint.location}</h3>
+                        <h3 className="font-heading font-semibold text-lg">
+
+                            {checkpoint.title.includes('—') && (
+                              <>
+                                <br />
+                                {checkpoint.title.split('—')[1].trim()}
+                              </>
+                            )}
+                          </h3>
                         <p className="text-xs text-primary/70">
                           <span className="font-bold">{checkpoint.subtitle}</span>
-                          {checkpoint.title.includes('—') && (
-                            <>
-                              <br />
-                              {checkpoint.title.split('—')[1].trim()}
-                            </>
-                          )}
+                          <>
+                            <br/>
+                            {checkpoint.location}
+                          </>
                         </p>
                       </div>
                       <motion.div 

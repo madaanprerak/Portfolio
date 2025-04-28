@@ -33,8 +33,7 @@ export default function Hero() {
               <span className="text-primary">Merchant Navy Engineer to Product Leadership</span>
             </div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-heading font-bold mb-6 leading-tight">
-              From navigating oceans to navigating 
-              <span className="text-accent"> user journeys</span>
+              From navigating oceans to navigating user journeys
             </h1>
             <p className="text-lg md:text-xl mb-8 text-primary/80">
               I charted a new course as a Product Manager, building solutions that empower millions. Building products that matter. Learning, leading, and leaving an impact at every step.
