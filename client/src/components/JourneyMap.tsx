@@ -106,7 +106,7 @@ export default function JourneyMap() {
           <div className="journey-path-container overflow-x-auto pb-10">
             <div ref={journeyPathRef} className="journey-path min-w-[200vw] relative px-10 py-20">
               {/* Journey path */}
-              <div className="absolute left-16 right-16 top-1/2 transform -translate-y-1/2 border-2 border-dashed border-primary/30 z-0"></div>
+              {/* <div className="absolute left-16 right-16 top-1/2 transform -translate-y-1/2 border-2 border-dashed border-primary/30 z-0"></div> */}
               
               {/* Journey Ship (animated with scroll) */}
               
