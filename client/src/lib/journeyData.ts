@@ -40,7 +40,7 @@ export const journeyData = [
   },
   {
     id: "singapore",
-    title: "Junior Analyst — Executive Ship Management, Singapore",
+    title: "Junior Analyst — Executive Ship Mgt",
     location: "Singapore",
     subtitle: "Junior Analyst | 1 Year",
     icon: "fa-ship",
@@ -115,7 +115,7 @@ export const journeyData = [
   },
   {
     id: "dhwani",
-    title: "Product Manager — Dhwani Rural Information System",
+    title: "Product Manager — Dhwani RIS",
     location: "Gurugram",
     subtitle: "Product Manager | 3 Years",
     icon: "fa-home",
